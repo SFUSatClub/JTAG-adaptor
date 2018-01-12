@@ -1,4 +1,4 @@
-update=Thursday, January 11, 2018 'pmt' 11:26:44 pm
+update=Thursday, January 11, 2018 'pmt' 11:33:44 pm
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,9 +23,11 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=KiCad-Lib
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -56,5 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-[general]
-version=1
+LibName30=KiCad-Lib/SFUSat
