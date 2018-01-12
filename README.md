@@ -2,7 +2,7 @@
 An adaptor from standard huge 20-pin ARM JTAG to a more compact format on the OBC. 
 
 Getting started:
-—
+— -
 
 - Clone this repo.
 - Run `git submodule init` in the JTAG-adaptor directory, 
