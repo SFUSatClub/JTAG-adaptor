@@ -20,7 +20,7 @@ Note: issues may arise when using relative paths. Select absolute paths by choos
 
 - Exit back to the KiCad home window and go to Pcbnew > Preferences > Footprint Libraries Manager > "Project Specific Libraries” tab:
 
-- Click “Add Library"
+- Click “Append Library"
 - Enter the following information:
 `Nickname: SFUSat`
 `Library Path: ${KIPRJMOD}/KiCad-Lib/SFUSat.pretty`
